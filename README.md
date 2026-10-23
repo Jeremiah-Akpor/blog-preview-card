@@ -31,7 +31,7 @@ Build a responsive blog article preview card based on the provided desktop and m
 ### Links
 
 - [Frontend Mentor challenge](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS)
-- **Live site:** To be added after deployment
+- **Live site:** [View the deployed Blog Preview Card](https://jeremiah-akpor.github.io/blog-preview-card/)
 - **Frontend Mentor solution:** To be added after submission
 
 ## My process
